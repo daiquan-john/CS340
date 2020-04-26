@@ -1,0 +1,3 @@
+Ok so this file contains all the pages for the webpage, but you're gonna need xampp installed to properly run this.
+Once you have xampp installed go into the folder C: -> xampp -> htdocs and paste this folder in there.
+The once you have apache and mysql running (It's just clicking start in xampp's menu), you go to localhost/webapp website in your browser. from there you can open any of the files within this folder.
